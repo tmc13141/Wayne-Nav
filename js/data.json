@@ -317,7 +317,7 @@
             { "title": "IPv6 连接测试", "url": "http://test-ipv6.com/", "description": "IPv6 连接测试" },
             { "title": "ACL4SSR", "url": "https://acl4ssr-sub.github.io/", "description": "ACL4SSR在线订阅转换" },
             { "title": "OpenWrt固件下载与定制", "url": "https://supes.top/", "description": "OpenWrt固件下载与定制,一分钟在线定制编译专属OpenWrt固件,支持X86,小米,红米,Nanopi,斐讯,华硕等主流软硬路由器" },
-            { "title": "IP查询", "url": "https://ipw.cn/", "description": "致力于普及 IPv6 ,推进 IPv6 规模部署和应用" }
+            { "title": "IP查询", "url": "https://ip.cn/", "description": "致力于普及 IPv6 ,推进 IPv6 规模部署和应用" }
           ]
         },
         {
@@ -397,6 +397,7 @@
             { "title": "Unsplash", "url": "https://unsplash.com/", "description": "摄影壁纸分享" },
             { "title": "星空壁纸", "url": "https://www.eso.org/public/images/", "description": "关于宇宙星空的壁纸站" },
             { "title": "pixabay", "url": "https://pixabay.com/zh/", "description": "免费正版高清图片素材库" }
+            { "title": "哲风壁纸", "url": "https://haowallpaper.com/", "description": "各种壁纸素材库" }
           ]
         },
         {
