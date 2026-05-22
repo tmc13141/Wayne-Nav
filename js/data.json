@@ -92,6 +92,7 @@
           "items": [
             { "title": "古诗文网", "url": "https://www.gushiwen.cn/", "description": "古诗文网作为传承经典的网站专注于古诗文服务，致力于让古诗文爱好者更便捷地发表及获取古诗文相关资料。" },
             { "title": "中国诗歌网", "url": "https://www.zgshige.com/", "description": "诗歌高地，诗人家园。" },
+            { "title": "Z-Library", "url": "https://z-library.sk/", "description": "Z-Library ⾃称是全球最⼤的数字图书馆" },
             { "title": "熊猫搜书", "url": "https://xmsoushu.com/", "description": "熊猫搜书平台，提供免费电子书下载，mobi、epud、pdf、txt格式，kindle电子书下载" },
             { "title": "SoBooks", "url": "https://sobooks.net/", "description": "小说书籍资源搜索" },
             { "title": "搬书匠", "url": "http://www.banshujiang.cn/", "description": "计算机类图书" },
@@ -458,9 +459,9 @@
           ]
         },
         {
-          "title": "API资源",
+          "title": "视频素材",
           "items": [
-            { "title": "和风天气API", "url": "https://dev.qweather.com/", "description": "和风天气 全球气象数据开发服务" },
+            { "title": "pixabay", "url": "https://pixabay.com/", "description": "为你的下一个项目寻找完美的免版税库存视频片段。 免版税 可用的高清和4K视频 不要求署名." },
             { "title": "ROLL API", "url": "https://www.mxnzp.com/doc/list", "description": "ROLL免费API" },
             { "title": "搏天API", "url": "https://api.btstu.cn/", "description": "高速稳定免费APi接口调用平台" },
             { "title": "图样跑酷", "url": "https://bing.img.run/api.html", "description": "bing图片 API" },
