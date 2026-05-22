@@ -462,8 +462,8 @@
           "title": "视频素材",
           "items": [
             { "title": "pixabay", "url": "https://pixabay.com/", "description": "为你的下一个项目寻找完美的免版税库存视频片段。 免版税 可用的高清和4K视频 不要求署名." },
-            { "title": "ROLL API", "url": "https://www.mxnzp.com/doc/list", "description": "ROLL免费API" },
-            { "title": "搏天API", "url": "https://api.btstu.cn/", "description": "高速稳定免费APi接口调用平台" },
+            { "title": "Pexels", "url": "https://www.pexels.com/zh-cn/videos/", "description": "Pexels 社区成员分享的精彩免费素材视频。" },
+            { "title": "Monzoom", "url": "https://www.monzoom.com/", "description": "Monzoom 是一个提供高质量免版权视频素材的平台" },
             { "title": "图样跑酷", "url": "https://bing.img.run/api.html", "description": "bing图片 API" },
             { "title": "镜心 API", "url": "https://api2.wer.plus/", "description": "安全高效免费的API调用服务" },
             { "title": "点滴API", "url": "https://api.ddkjt.com/index.php", "description": "一款简洁而不简单的免费API网站" },
