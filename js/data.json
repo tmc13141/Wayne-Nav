@@ -146,7 +146,7 @@
             { "title": "影猫", "url": "https://www.mvcat.com/", "description": "人生如戏，你是主角。" },
             { "title": "豌豆PRO", "url": "https://www.wandou.pro/", "description": "实时聚合全网优质影视资源，同时支持在线、下载和字幕。" },
             { "title": "电影淘淘", "url": "https://www.dianyingtaotao.com/", "description": "电影搜索引擎" },
-            { "title": "盘友圈", "url": "https://panyq.com/", "description": "在线网盘搜索引擎，支持百度网盘、阿里云盘、夸克网盘资源搜索" }
+            { "title": "兄弟影视", "url": "https://www.brovod.com/", "description": "免费在线超清无广告" }
           ]
         },
         {
@@ -206,6 +206,7 @@
           "items": [
             { "title": "ChatGPT", "url": "https://chatgpt.com/", "description": "ChatGPT 是由 OpenAI 开发的一种人工智能语言模型，能够根据上下文和过去的对话生成类似人类的文本。" },
             { "title": "DeepSeek", "url": "https://www.deepseek.com/", "description": "DeepSeek | 深度求索  探索未至之境" },
+            { "title": "腾讯元宝", "url": "https://yuanbao.tencent.com/", "description": "腾讯元宝是腾讯推出的免费AI智能助手，基于腾讯混元和DeepSeek大模型，为用户提供智能助手服务，包括智能问答、文件解析、内容创作辅助以及多样化的AI应用。" }
             { "title": "Gemini", "url": "https://gemini.google.com/", "description": "Gemini Pro是谷歌最新推出的高性能AI模型，专为编程和复杂任务处理优化。它具备强大的代码生成能力，能够处理复杂指令，并支持最高200万Token的上下文窗口。此外，Gemini Pro可调用Google搜索和代码执行，以增强推理能力和信息获取能力。" },
             { "title": "Grok 3", "url": "https://x.com/i/grok/", "description": "马斯克旗下重磅AI，人工智能初创公司xAI团队研发的第三代大语言模型。2025年2月18日正式发布，同步发布的还有名为Deepsearch的Grok 3智能搜索引擎。" },
             { "title": "文心一言", "url": "https://yiyan.baidu.com/", "description": "文心一言是百度研发的知识增强大语言模型，它采用了深度学习算法和大规模语料库训练，具备强大的语义理解和生成能力。文心一言能够与用户进行流畅的对话交流，理解用户的意图和需求，并提供精准、有价值的回答和建议。" },
@@ -213,6 +214,7 @@
             { "title": "智谱清言", "url": "https://chatglm.cn/", "description": "智谱清言是由北京智谱华章科技有限公司开发的生成式AI聊天助手，基于智谱AI自主研发的中英双语对话模型ChatGLM2。它具有千亿级别的参数和一系列强大的功能，旨在提供高效、精准的语音交互体验。" },
             { "title": "豆包", "url": "https://www.doubao.com/chat/", "description": "豆包，一款由字节跳动精心打造的AI助手，它不仅是你的私人问答专家，更是写作、翻译、情感陪伴、编程等多面手。无论是Web端还是iOS/安卓，一键登录（手机号、抖音号、Apple ID任选），即刻开启智能生活新篇章！" },
             { "title": "天工AI", "url": "https://www.tiangong.cn/", "description": "天工是一款支持搜索、写作、对话、文档分析、画画、做PPT的全能型AI助手。你可以借助AI技术，检索信息、多语言翻译、写论文、写代码、写方案、写汇报、做PPT、归纳总结文档和音频视频，还可以智能编辑彩页和宝典，让AI生成高质量彩页内容，收获点赞关注。" },
+            { "title": "秘塔 AI", "url": "https://metaso.cn/", "description": "秘塔AI是一款基于大语言模型和自然语言处理技术的智能搜索引擎，旨在提升用户的信息检索效率，特别适用于学术研究和职场办公。" }
             { "title": "Google AI Studio", "url": "https://aistudio.google.com/", "description": "基于浏览器的轻量级AI平台" }
           ]
         },
